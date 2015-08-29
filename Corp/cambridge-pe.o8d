@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01067">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01062">Ichi 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01069">Project Junebug</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01070">Snare!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01072">Neural EMP</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01099">Scorched Earth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02032">Fetal AI</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02112">Ronin</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03009">Cerebral Overwriter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03023">Gila Hands Arcology</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04033">Swordsman</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04039">Profiteering</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05006">Philotic Entanglement</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05007">The Future Perfect</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05008">Chairman Hiro</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05010">Psychic Field</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05013">Cerebral Cast</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05014">Medical Research Fundraiser</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05015">Mushin No Shin</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05017">Komainu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06043">Kitsune</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06049">Chronos Project</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06050">Shattered Remains</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06104">Markus 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08014">Cortex Lock</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08036">Blacklist</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08056">Lockdown</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

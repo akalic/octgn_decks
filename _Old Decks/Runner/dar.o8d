@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02001">Whizzard</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01005">Cyberfeeder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02024">E3 Feedback Implants</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01006">Grimoire</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01040">The Personal Touch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03053">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01015">Ice Carver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02091">Kati Jones</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02022">Liberated Account</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02102">Darwin</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01008">Datasucker</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01009">Djinn</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02003">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01010">Medium</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01012">Parasite</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01002">Deja Vu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02087">Quality Time</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01004">Stimhack</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02081">Surge</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01053">Armitage Codebusting</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03054">Same Old Thing</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

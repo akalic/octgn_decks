@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01033">Kate "Mac" McCaffrey</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03035">Levy AR Lab Access</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03052">Dirty Laundry</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02106">Indexing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01034">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01035">Modded</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01004">Stimhack</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02064">Doppelganger</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03038">Clone Chip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02107">R&amp;D Interface</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01038">Akamatsu Mem Chip</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04067">Sharpshooter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03040">Atman</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03046">Self-modifying Code</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03048">Inti</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01008">Datasucker</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01011">Mimic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01012">Parasite</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02091">Kati Jones</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

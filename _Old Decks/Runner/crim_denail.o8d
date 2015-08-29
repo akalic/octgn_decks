@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02083">Andromeda</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01018">Account Siphon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01003">Demolition Run</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02043">Emergency Shutdown</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03031">Escher</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01020">Forged Activation Orders</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04004">Hostage</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01021">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02023">Satellite Uplink</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01022">Special Order</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01029">Bank Job</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02025">Compromised Employee</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03053">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02103">Data Leak Reversal</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02042">Joshua B.</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02105">Mr. Li</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03054">Same Old Thing</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01007">Corroder</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01051">Crypsis</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01027">Ninja</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02005">Cortez Chip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01024">Desperado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02085">HQ Interface</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04005">Gorman Drip v1</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

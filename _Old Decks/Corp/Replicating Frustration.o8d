@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77" sleeveid="0">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02031">Jinteki</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04054">Sundew</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05009">Mental Health Clinic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04114">Caprice Nisei</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01065">Corporate Troubleshooter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02013">Ash 2X3ZB9CY</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06031">Lag Time</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06022">Enhanced Login Protocol</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04012">Celebrity Gift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01068">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04119">NAPD Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05007">The Future Perfect</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06061">Architect</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04120">Quandary</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05018">Pup</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04074">Tsurugi</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01078">Wall of Thorns</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05017">Komainu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01062">Ichi 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04013">Himitsu-Bako</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06064">Ashigaru</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06003">Lotus Field</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

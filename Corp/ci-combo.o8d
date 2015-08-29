@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03001">Cerebral Imaging: Infinite Frontiers</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01055">Accelerated Beta Test</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01058">Archived Memories</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01059">Biotic Labor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01060">Shipment from MirrorMorph</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01062">Ichi 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01100">Shipment from Kaguya</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01106">Priority Requisition</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01111">Enigma</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02051">Project Vitruvius</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02070">Green Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03005">Efficiency Committee</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04034">Shipment from SanSan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04052">Accelerated Diagnostics</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04058">Power Shutdown</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04060">Interns</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04090">Blue Level Clearance</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04100">Subliminal Messaging</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04111">Reclamation Order</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04120">Quandary</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda07027">Cyberdex Virus Suite</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

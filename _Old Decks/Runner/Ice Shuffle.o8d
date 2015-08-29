@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04041">Reina Roja</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04062">Activist Support</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01053">Armitage Codebusting</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02103">Data Leak Reversal</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04106">Fall Guy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02091">Kati Jones</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02022">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01007">Corroder</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01051">Crypsis</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01026">Femme Fatale</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02007">ZU.13 Key Master</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01002">Deja Vu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03052">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02087">Quality Time</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01004">Stimhack</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02021">Vamp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04061">Keyhole</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01020">Forged Activation Orders</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01011">Mimic</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

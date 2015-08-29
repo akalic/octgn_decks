@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02010">Haas-Bioroid</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03004">Director Haas' Pet Project</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02011">Mandatory Upgrades</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01055">Accelerated Beta Test</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02051">Project Vitruvius</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04080">Veterans Program</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02070">Green Level Clearance</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03013">Bioroid Efficiency Research</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04111">Reclamation Order</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03015">Heimdall 2.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03019">Viktor 2.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04030">Wotan</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02012">Janus 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01061">Heimdall 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01064">Rototurret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02019">Caduceus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01102">Hadrian's Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02092">Eve Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01056">Adonis Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01108">Melange Mining Corp</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

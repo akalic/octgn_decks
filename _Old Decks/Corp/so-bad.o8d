@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01067">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01097">Aggressive Negotiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01111">Enigma</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02080">False Lead</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03023">Gila Hands Arcology</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda03026">Bastion</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04012">Celebrity Gift</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04013">Himitsu-Bako</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04032">Clone Retirement</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04033">Swordsman</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04053">Unorthodox Predictions</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04058">Power Shutdown</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04093">Yagura</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05004">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05014">Medical Research Fundraiser</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06024">Encrypted Portals</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06049">Chronos Project</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06111">Excalibur</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda07011">The Board</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

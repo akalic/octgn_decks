@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05028">Iain Stirling</card>
+  </section>
+  <section name="R&amp;D / Stack" shared="False">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04063">Lawyer Up</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01018">Account Siphon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01021">Inside Job</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05031">Calling in Favors</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04004">Hostage</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02043">Emergency Shutdown</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05037">Logos</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04065">Garrote</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03043">Chakana</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02007">ZU.13 Key Master</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01007">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02069">Underworld Contact</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02091">Kati Jones</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02105">Mr. Li</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01031">Data Dealer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01032">Decoy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05050">Tri-maf Contact</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04106">Fall Guy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01022">Special Order</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01052">Access to Globalsec</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
