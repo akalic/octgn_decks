@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
-  <section name="Identity">
-    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02031">Jinteki: Replicating Perfection</card>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77" sleeveid="0">
+  <section name="Identity" shared="False">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02031">Jinteki</card>
   </section>
-  <section name="R&amp;D / Stack">
+  <section name="R&amp;D / Stack" shared="False">
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01062">Ichi 1.0</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01068">Nisei MK II</card>
-    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01078">Wall of Thorns</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01090">Tollbooth</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01111">Enigma</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02032">Fetal AI</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02110">Eli 1.0</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04012">Celebrity Gift</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04013">Himitsu-Bako</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04013">Himitsu-Bako</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04033">Swordsman</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04054">Sundew</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04074">Tsurugi</card>
@@ -22,12 +21,13 @@
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05007">The Future Perfect</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05009">Mental Health Clinic</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06003">Lotus Field</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06022">Enhanced Login Protocol</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06048">Crisium Grid</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06049">Chronos Project</card>
-    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06111">Excalibur</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08034">Crick</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08074">Marcus Batty</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08074">Marcus Batty</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04060">Interns</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06086">Daily Business Show</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05020">Susanoo-No-Mikoto</card>
   </section>
   <notes><![CDATA[]]></notes>
 </deck>
