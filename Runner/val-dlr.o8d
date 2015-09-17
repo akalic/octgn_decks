@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+				<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+				<section name="Identity">
+					<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda07030">valencia-estevez-the-angel-of-cayambe</card>
+				</section>
+				<section name="R&amp;D / Stack">
+				<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01010">medium</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01018">account-siphon</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04089">blackmail</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04102">queens-gambit</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06073">inject</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02042">joshua-b</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02063">scrubber</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03054">same-old-thing</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02103">data-leak-reversal</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03053">daily-casts</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04009">john-masanori</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04106">fall-guy</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06059">hades-shard</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda07048">human-first</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08062">street-peddler</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08022">off-campus-apartment</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08083">drug-dealer</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08087">paparazzi</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08108">wireless-net-pavilion</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08043">turntable</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08061">faust</card>
+								</section>
+			</deck>
