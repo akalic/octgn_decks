@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06105">Industrial Genomics: Growing Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01103">Ice Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01109">PAD Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02014">Braintrust</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02033">Trick of Light</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02095">Hokusai Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04073">Shock!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04114">Caprice Nisei</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05005">Medical Breakthrough</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05006">Philotic Entanglement</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda05007">The Future Perfect</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05009">Mental Health Clinic</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06003">Lotus Field</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06106">Turtlebacks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07010">Space Camp</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07018">Fire Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda07027">Cyberdex Virus Suite</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08014">Cortex Lock</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08034">Crick</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08073">Allele Repression</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08091">An Offer You Can&#039;t Refuse</card>
+  </section>
+  <notes><![CDATA[###Overview
+I&#039;ve been having a lot of fun with this deck lately.  I&#039;ve been using [Industrial Genomics](/en/card/06105) as a sort of weird fast-advance deck for a while, but the addition of [An Offer You Can&#039;t Refuse](/en/card/08091) and [Allele Repression](/en/card/08073) have really filled in some holes.
+
+This is probably not a top-tier deck.  (Yet!)  I don&#039;t think it&#039;s quite tournament-ready.  But I don&#039;t think it&#039;s that far off, either.  It has some really neat plays open to it, it&#039;s a lot of fun to pilot, and it&#039;s unconventional enough that it still can net some surprising wins, because it attacks in ways that people aren&#039;t used to defending against.
+
+###General strategy:
+The basic idea of this deck is straightforward:  Get a trap or two into archives as fast as possible, and spam econ assets.  Keep at least 2 facedown cards in archives at all times, to make trash costs prohibitive.  And score!
+
+At the start of the game, the single most important card is [Jackson Howard](/en/card/04015).  Ideally, you want him as early as possible, so you can overdraw efficiently, and dump some cards into archives.  You usually want to use your first turn to throw some ice over HQ or R&amp;D, (depending on if you&#039;re more worried about a first turn [Account Siphon](en/card/01018) or [Keyhole](/en/card/04061).
+
+Try to get a trap into archives as fast as possible.  Runners will usually run archives at least once early, before there is too much in it, and you need to teach them, as quickly as possible, that every time they do, there will be a cost.
+
+Don&#039;t worry about icing up your centrals too much.  If they focus on one of them, (or install something threatening like [Medium](/en/card/01010), [R&amp;D Interface](/en/card/02107), etc) then stick a couple of ICE in the way, but otherwise, let them take pot-shots.  They can&#039;t/won&#039;t trash most of your assets, so you can afford to leave centrals a little less defended than usual.
+
+If you really need to keep them out of someplace, [Fire Wall](/en/card/07018) is probably your best bet.  It&#039;s expensive for just about anything (except [D4v1d](/en/card/06033), grr.) and you can dump some advancement tokens on it to increase the tax, if they&#039;re trying to run on it too often.
+
+Alternately, [Hokusai Grid](/en/card/02095) and [Caprice Nisei](/en/card/04114) can be used to protect a central that is getting too much attention.  [Hokusai Grid](/en/card/02095) deserves special mention here, because with a base trash cost of 4, with even a few cards in archives, it will almost certainly be prohibitive to get rid of.  (And it&#039;s a good deterrent against runners spending their whole turn running against a single server.)
+
+###Scoring
+There are a lot of ways to get points in this deck:
+
+* First, there&#039;s fatigue and/or bluffs.  Sometimes people get tired of checking all your facedown assets.  Sometimes they get worried about [Psychic Field](/en/card/05010) and [Snare!](/en/card/01070).  For whatever reason, sometimes people don&#039;t bother checking all your facedown remotes, and you can sneak out a naked 3/2 agenda, never-advance style.
+
+* Second, there&#039;s the honest way:  a couple of ETR ice plus [Caprice Nisei](/en/card/04114) make for a pretty solid scoring server.  This is pretty much the only way you&#039;ll ever score out [The Future Perfect](/en/card/05007), except for occasional crazy games where you get to use the best way.  (See below.)
+
+* Third, there&#039;s the fast-advance way.  With all that advanceable ice, it&#039;s easy to store up some advancement counters.  Heck, with [Space Camps](/en/card/07010), most games the runner will give you a couple themselves!  Just [Trick of Light](/en/card/02033) one of the 3-cost agendas into points-land, and use [Cyberdex Virus Suite](/en/card/07027) as insurance against [Clot](/en/card/08001).  This is probably how I score most of the points with this deck.
+
+* Finally, there&#039;s the best way.  The [An Offer You Can&#039;t Refuse](/en/card/08091) way.  It works like this:  Any time you have some money, at least one [Space Camp](/en/card/07010) in archives, a [Crick](/en/card/08034) guarding it, and the runner isn&#039;t able to break it, consider playing [An Offer You Can&#039;t Refuse](/en/card/08091).  At worst, it&#039;s a cheap point for 4.  Which is great, because most of the agendas you&#039;ll score are 2-pointers, so it will usually mean you need one less agenda!  If they take the run though, just install a [Braintrust](/en/card/02014) or whatever with the [Crick](/en/card/08034), and then when they get into Archives, use the [Space Camp](/en/card/07010)(s) to advance it, and advance it the rest of the way by hand.  Bam!  You have just scored an agenda from archives in one turn.  And with enough [Space Camp](/en/card/07010)s and/or [Tricks of Light](/en/card/02033), you can sometimes even score bigger agendas, like your first [Medical Breakthrough](/en/card/05005), or - very rarely - one of your [Future Perfects](/en/card/05007).
+
+###Useful Plays:
+
+The best play is the one with [An Offer You Can&#039;t Refuse](/en/card/08091), listed under Scoring.  But there are a few others worth noting!
+
+[Allele Repression](/en/card/08073) is a surprisingly good card here.  Remember it doesn&#039;t cost a click to fire!  You just need to pay the res cost.  It has several good uses.
+
+* You can use it to get cards back from archives and into HQ, if they&#039;re things you really need.  I use this a lot to recover a lot of trashed [Jacksons Howard](/en/card/04015), or [Tricks of Light](/en/card/02033) when I&#039;m ready to score.
+
+* You can use it to increase a trash-cost mid-run (by throwing facedown cards into archives) if they decide to just suck it up and run archives and go on a trashing spree.
+
+* You can use it as an impromptu [Jackson Howard](/en/card/04015), to rescue agendas from archives mid-run.  (Potentially throw some extra traps into the mix, to boot.)
+
+* You can use it to *get itself back.*  This is one of the most important things.  Always try to have at least 2 advancement tokens on it, so you can get back some other card, as well as recover itself.  With a base trash cost of 2, runners will rarely bother trashing it if you have some facedown cards in archives.  Just stick two tokens on it and let it sit until you need it.
+
+Also, be aware of [Medical Breakthrough](/en/card/05005)!  After the first two have been scored or stolen, the third one becomes a 2/2 agenda, which allows a lot of room for silliness.  You can obviously just install/advance/advance it out of hand.  But if you don&#039;t have all 3 clicks available, (because you drew it on your first click with [Jackson Howard](/en/card/04015), for example) you can still score it in two clicks using [Trick of Light](/en/card/02033).
+
+And of course, with [Allele Repression](/en/card/08073) in the mix, you can keep one safe(ish) in archives until the first two are found and scored, and then pull it out to score when needed.]]></notes>
+</deck>
