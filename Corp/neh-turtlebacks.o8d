@@ -1,10 +1,30 @@
-
-Warning: current() expects parameter 1 to be array, null given in /srv/www.acoo.net/htdocs/octgn-export.php on line 15
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 				<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
 				<section name="Identity">
-					<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda"></card>
+					<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06005">near-earth-hub-broadcast-center</card>
 				</section>
 				<section name="R&amp;D / Stack">
-						</section>
+				<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01059">biotic-labor</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01110">hedge-fund</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04076">sweeps-week</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01081">astroscript-pilot-program</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01082">breaking-news</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02115">project-beale</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04119">napd-contract</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06085">license-acquisition</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01090">tollbooth</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01101">archer</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01111">enigma</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02056">pop-up-window</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02110">eli-10</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04096">wraparound</card>
+						<card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06061"></card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01092">sansan-city-grid</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda07027">cyberdex-virus-suite</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01109">pad-campaign</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">jackson-howard</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06106">turtlebacks</card>
+						<card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06086">daily-business-show</card>
+						<card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08110">team-sponsorship</card>
+								</section>
 			</deck>
