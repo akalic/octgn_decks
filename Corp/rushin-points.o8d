@@ -4,6 +4,7 @@
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02031">Jinteki: Replicating Perfection</card>
   </section>
   <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01062">Ichi 1.0</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01068">Nisei MK II</card>
     <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01092">SanSan City Grid</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01110">Hedge Fund</card>
@@ -16,8 +17,9 @@
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04033">Swordsman</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04054">Sundew</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04096">Wraparound</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04114">Caprice Nisei</card>
-    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04120">Quandary</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04120">Quandary</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05005">Medical Breakthrough</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05006">Philotic Entanglement</card>
     <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda05009">Mental Health Clinic</card>
@@ -25,7 +27,7 @@
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda05027">Fast Track</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06003">Lotus Field</card>
     <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08034">Crick</card>
-    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08110">Team Sponsorship</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08074">Marcus Batty</card>
   </section>
   <notes><![CDATA[]]></notes>
 </deck>
