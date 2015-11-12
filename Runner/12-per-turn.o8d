@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda09045">Sunny Lebeau: Security Specialist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02069">Underworld Contact</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02087">Quality Time</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02091">Kati Jones</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02106">Indexing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02107">R&amp;D Interface</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03053">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06120">Earthrise Hotel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07055">Data Folding</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08009">Symmetrical Visage</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08023">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08061">Faust</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda09040">Multithreader</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda09046">Security Chip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09047">Security Nexus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09048">GS Striker M1</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09049">GS Shrike M2</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09050">GS Sherman M3</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09051">Globalsec Security Clearance</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
